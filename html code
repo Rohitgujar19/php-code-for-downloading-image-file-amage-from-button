@@ -1,0 +1,1 @@
+ <a href="download_image.php?file=<?php echo$img_data[$i] ?>" class="btn btn-success"><?php echo $img_data[$i]?></a>
